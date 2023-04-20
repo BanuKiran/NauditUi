@@ -1,0 +1,7 @@
+.datarow:hover {
+    background-color: #ffdead;
+    color: #cc0000;
+    cursor: pointer;
+    border-radius: 15px;
+    padding: 10px;
+}
